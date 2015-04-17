@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-701f16cd72422963c7304be93e38987b522f27d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\pre-dexed\debug\classes-28e9867da1615c90dd33d8de5821c50bb053bf30.jar" />
+    </item>
+    <item
+        jar="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\pre-dexed\debug\classes-82c5ce7beebfde48ba2595b341656b6af1d9ec53.jar" />
+    </item>
+    <item
+        jar="C:\Users\winchester\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\winchester\AndroidStudioProjects\onlineelection2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-a7437901a50834eebca1629aa057662f817c9b5d.jar" />
+    </item>
+
+</items>
